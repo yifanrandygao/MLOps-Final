@@ -1,0 +1,6 @@
+,id,Gender,Customer Type,Age,Type of Travel,Class,Flight Distance,Inflight wifi service,Departure/Arrival time convenient,Ease of Online booking,Gate location,Food and drink,Online boarding,Seat comfort,Inflight entertainment,On-board service,Leg room service,Baggage handling,Checkin service,Inflight service,Cleanliness,Departure Delay in Minutes,Arrival Delay in Minutes,datetime
+1,5047,Male,disloyal Customer,25,Business travel,Business,235,3,1,2,2,1,2,1,1,1,5,3,0,3,0,9,16,12/4/2021
+2,110028,Female,Loyal Customer,26,Business travel,Business,1142,2,3,2,1,5,5,5,5,5,4,3,5,4,5,-7,0,12/5/2021
+3,24026,Female,Loyal Customer,25,Business travel,Business,562,3,5,5,5,2,2,3,3,2,5,2,2,5,3,92,19,12/6/2021
+4,119299,Male,Loyal Customer,61,Business travel,Business,214,3,4,4,2,5,5,5,2,3,3,5,2,4,4,0,0,12/7/2021
+5,111157,Female,Loyal Customer,26,Personal Travel,Eco,1180,4,3,2,0,0,1,2,1,2,3,4,3,3,2,44,0,12/8/2021
